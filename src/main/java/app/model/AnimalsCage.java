@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class AnimalsCage {
-    
+
     private final Animal animal;
     private final Timer timer;
 
